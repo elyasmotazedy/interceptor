@@ -1,0 +1,23 @@
+form {
+  text-align: center;
+  background: #f4f4f4;
+  padding: 40px 0;
+  margin: 30px auto;
+  width: 70%;
+}
+input {
+  display: block;
+  padding: 5px 10px;
+  margin: 10px auto;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+  background: #ef4123;
+  color: white;
+  cursor: pointer;
+}
